@@ -3,7 +3,15 @@
 > End-to-End Data Analytics Project using **Python, PostgreSQL, SQL, and Power BI** to analyze customer purchasing behavior and generate business insights for data-driven decision making.
 
 ---
+# 📷 Dashboard Preview
 
+<img width="1865" height="910" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/4caaa1d8-ec15-4a10-9797-e2c793436282" />
+
+<img width="1920" height="905" alt="Screenshot (326)" src="https://github.com/user-attachments/assets/f875e0b5-68c6-4b07-b8b3-f0d080c5312a" />
+
+
+
+---
 ## 📌 Project Overview
 
 Retail companies generate thousands of customer transactions every day. Analyzing this data manually is difficult and time-consuming.
@@ -191,15 +199,7 @@ The dashboard is completely **interactive**, allowing users to filter data dynam
 
 ---
 
-# 📷 Dashboard Preview
 
-> Add screenshots here
-
-### Dashboard
-
-![Dashboard](Images/dashboard.png)
-
----
 
 # 📌 Business Insights
 
